@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedRoverTestAssessment", "RedRoverTestAssessment.csproj", "{BACED168-A358-4895-A2EE-136EDEFC6EA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BACED168-A358-4895-A2EE-136EDEFC6EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BACED168-A358-4895-A2EE-136EDEFC6EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BACED168-A358-4895-A2EE-136EDEFC6EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BACED168-A358-4895-A2EE-136EDEFC6EA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB03CCD7-DC42-4448-849E-5045EB39DE53}
+	EndGlobalSection
+EndGlobal
